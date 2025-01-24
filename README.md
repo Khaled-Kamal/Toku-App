@@ -18,7 +18,7 @@ Customizable Settings:
 Users can personalize their experience with Toku by adjusting settings such as font size, language priority, and theme. This ensures that the app caters to individual preferences, enhancing the overall usability for a diverse audience.
 
 Cultural Insights:
-Beyond language support, Toku includes cultural tips and contextual information that help users understand nuances between Japanese and English communication styles. This feature is particularly useful for those interested in deepening their cross-cultural understanding.
+Beyond language support, Toku includes cultural tips and contextual information that help users understand nuances between Japanese and English communication styles. This feature is particularly useful for those interested in deepening their cross-cultural understanding..
 
 Use Cases:
 Language Learners: Toku serves as a practical tool for individuals learning Japanese or English, offering an easy way to practice language switching and vocabulary.
