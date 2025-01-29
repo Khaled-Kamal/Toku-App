@@ -24,7 +24,7 @@ Use Cases:
 Language Learners: Toku serves as a practical tool for individuals learning Japanese or English, offering an easy way to practice language switching and vocabulary.
 Travelers: The app is a handy companion for travelers visiting Japan or English-speaking countries, allowing them to navigate both languages effortlessly.
 Professionals: For business professionals working in international environments, Toku provides a quick reference to communicate effectively in both languages.
-Toku is designed to offer more than just a bilingual interface—it's a comprehensive tool that simplifies bilingual communication and enhances cultural understanding.
+Toku is designed to offer more than just a bilingual interface—it's a comprehensive tool that simplifies bilingual communication and enhances cultural understanding..
 
 
 
